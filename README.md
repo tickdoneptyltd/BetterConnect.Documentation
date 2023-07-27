@@ -1,1 +1,1 @@
-# BetterConnect.Documentation
+# BetterConnect User Guide
