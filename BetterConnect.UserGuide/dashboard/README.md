@@ -25,3 +25,14 @@ description: After login this page will launch
 2. Diary Job
 3. Job to Truck
 4. Drop to Job
+
+#### Bottom Ribbon
+
+1. Print
+2. Print Detail
+3. Bulk SMS
+4. Swap Job
+5. Cancel Job
+6. Edit
+7. Close
+
