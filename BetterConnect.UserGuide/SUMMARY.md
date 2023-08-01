@@ -2,6 +2,11 @@
 
 * [Welcome to Better Connect](README.md)
 
-## Settings
+## Setup
 
-* [Addresses](settings/addresses.md)
+* [Dashboard](setup/dashboard.md)
+* [Addresses](setup/addresses.md)
+
+## Search
+
+* [Page 1](search/page-1.md)
